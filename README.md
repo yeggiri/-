@@ -1,5 +1,5 @@
 # -
-Selenium을 활용하여 구글, 네이버에서 이미지 스크랩
+#Selenium을 활용하여 구글, 네이버에서 이미지 스크랩
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
