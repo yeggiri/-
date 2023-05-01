@@ -59,3 +59,4 @@ driver.quit()
 # driver.close()
 
 #파이썬 가상환경 만드는 코드 : python -m venv "이름"
+# 유튜브 참조 : https://www.youtube.com/watch?v=1b7pXC1-IbE
